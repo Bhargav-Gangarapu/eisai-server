@@ -1,0 +1,6 @@
+F:\DOT-NET\EISAI_BLL\bin\Debug\EISAI_BLL.dll
+F:\DOT-NET\EISAI_BLL\bin\Debug\EISAI_BLL.pdb
+F:\DOT-NET\EISAI_BLL\obj\Debug\EISAI_BLL.csprojAssemblyReference.cache
+F:\DOT-NET\EISAI_BLL\obj\Debug\EISAI_BLL.csproj.CoreCompileInputs.cache
+F:\DOT-NET\EISAI_BLL\obj\Debug\EISAI_BLL.dll
+F:\DOT-NET\EISAI_BLL\obj\Debug\EISAI_BLL.pdb

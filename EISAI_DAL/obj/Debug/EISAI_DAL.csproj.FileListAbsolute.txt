@@ -1,0 +1,17 @@
+F:\DOT-NET\EISAI_DAL\bin\Debug\EISAI_DAL.dll.config
+F:\DOT-NET\EISAI_DAL\bin\Debug\EISAI_DAL.dll
+F:\DOT-NET\EISAI_DAL\bin\Debug\EISAI_DAL.pdb
+F:\DOT-NET\EISAI_DAL\bin\Debug\EntityFramework.dll
+F:\DOT-NET\EISAI_DAL\bin\Debug\EntityFramework.SqlServer.dll
+F:\DOT-NET\EISAI_DAL\bin\Debug\EntityFramework.xml
+F:\DOT-NET\EISAI_DAL\bin\Debug\EntityFramework.SqlServer.xml
+F:\DOT-NET\EISAI_DAL\obj\Debug\EISAI_DAL.csprojAssemblyReference.cache
+F:\DOT-NET\EISAI_DAL\obj\Debug\EISAI_DAL.csproj.CoreCompileInputs.cache
+F:\DOT-NET\EISAI_DAL\obj\Debug\EISAI_DAL.csproj.CopyComplete
+F:\DOT-NET\EISAI_DAL\obj\Debug\EISAI_DAL.dll
+F:\DOT-NET\EISAI_DAL\obj\Debug\EISAI_DAL.pdb
+F:\DOT-NET\EISAI_DAL\bin\Debug\EISAI_BLL.dll
+F:\DOT-NET\EISAI_DAL\bin\Debug\EISAI_BLL.pdb
+F:\DOT-NET\EISAI_DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\DOT-NET\EISAI_DAL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\DOT-NET\EISAI_DAL\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
