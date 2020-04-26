@@ -7,8 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace EISAI_BLL
-{
-    
+{    
     public class DepartmentModel
     {
         public int DeptId { get; set; }

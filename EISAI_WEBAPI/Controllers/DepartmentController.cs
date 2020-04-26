@@ -14,11 +14,12 @@ namespace EISAI_WEBAPI.Controllers
     public class DepartmentController : ApiController
     {
         IDepartment obj = new DepartmentRepo();
+
         [Route("api/departments/saveDepartmentDetails")]
         [HttpPost]        
-        public IHttpActionResult InsertEmployee(DepartmentModel departmentModel)
+        public IHttpActionResult InsertDepartment(DepartmentModel departmentModel)
         {
-            var result = obj.InsertEmployee(departmentModel);
+            var result = obj.InsertDepartment(departmentModel);
             if (result == 1)
             {
                 return this.Ok("Department Added Successfully");
@@ -31,9 +32,9 @@ namespace EISAI_WEBAPI.Controllers
 
         [Route("api/departments/updateDepartmentDetails")]
         [HttpPost]
-        public IHttpActionResult UpdateEmployee(DepartmentModel departmentModel)
+        public IHttpActionResult UpdateDepartment(DepartmentModel departmentModel)
         {
-            var result = obj.UpdateEmployee(departmentModel);
+            var result = obj.UpdateDepartment(departmentModel);
             if (result == 1)
             {
                 return this.Ok("Department Updated Successfully");
@@ -46,9 +47,9 @@ namespace EISAI_WEBAPI.Controllers
 
         [Route("api/departments/deleteDepartmentDetails")]
         [HttpPost]
-        public IHttpActionResult DeleteEmployee(DepartmentModel departmentModel)
+        public IHttpActionResult DeleteDepartment(DepartmentModel departmentModel)
         {
-            var result = obj.DeleteEmployee(departmentModel);
+            var result = obj.DeleteDepartment(departmentModel);
             if (result == 1)
             {
                 return this.Ok("Department deleted Successfully");
@@ -59,15 +60,12 @@ namespace EISAI_WEBAPI.Controllers
             }
         }
 
-
-
-
         [Route("api/departments/getDepartmentDetails")]
         [HttpGet]
         public IEnumerable<DepartmentModel> GetDepartmentDetails()
         {
             List<DepartmentModel> lstdept = new List<DepartmentModel>();
-            lstdept = obj.GetEmployeeDetails();
+            lstdept = obj.GetDepartmentDetails();
             return lstdept;
         }
     }

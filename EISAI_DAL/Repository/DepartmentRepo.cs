@@ -19,7 +19,7 @@ namespace EISAI_DAL.Repository
         Database db;
         SqlDataReader dr = null;
 
-        public int InsertEmployee(DepartmentModel departmentModel)
+        public int InsertDepartment(DepartmentModel departmentModel)
         {
             int result = 0;
             db = DatabaseFactory.CreateDatabase("EisaiConnection");
@@ -39,7 +39,7 @@ namespace EISAI_DAL.Repository
             return result;
         }
 
-        public int UpdateEmployee(DepartmentModel departmentModel)
+        public int UpdateDepartment(DepartmentModel departmentModel)
         {
             int result = 0;
             db = DatabaseFactory.CreateDatabase("EisaiConnection");
@@ -59,7 +59,7 @@ namespace EISAI_DAL.Repository
             return result;
         }
 
-        public int DeleteEmployee(DepartmentModel departmentModel)
+        public int DeleteDepartment(DepartmentModel departmentModel)
         {
             int result = 0;
             db = DatabaseFactory.CreateDatabase("EisaiConnection");
@@ -79,7 +79,7 @@ namespace EISAI_DAL.Repository
             return result;
         }
 
-        //public List<DepartmentModel> GetEmployeeDetailsList()
+        //public List<DepartmentModel> GetDepartmentDetailsList()
         //{
         //    List<DepartmentModel> lstdept = new List<DepartmentModel>();
         //    con = new SqlConnection(cs);
@@ -97,7 +97,7 @@ namespace EISAI_DAL.Repository
         //    return lstdept;
         //}
 
-        public List<DepartmentModel> GetEmployeeDetails()
+        public List<DepartmentModel> GetDepartmentDetails()
         {         
             List<DepartmentModel> list = new List<DepartmentModel>();
             db = DatabaseFactory.CreateDatabase("EisaiConnection");

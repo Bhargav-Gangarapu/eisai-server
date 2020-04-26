@@ -9,12 +9,12 @@ namespace EISAI_DAL.Interface
 {
     public interface IDepartment
     {
-        int InsertEmployee(DepartmentModel departmentModel);
+        int InsertDepartment(DepartmentModel departmentModel);
 
-        int UpdateEmployee(DepartmentModel departmentModel);
+        int UpdateDepartment(DepartmentModel departmentModel);
 
-        int DeleteEmployee(DepartmentModel departmentModel);
+        int DeleteDepartment(DepartmentModel departmentModel);
 
-        List<DepartmentModel> GetEmployeeDetails();
+        List<DepartmentModel> GetDepartmentDetails();
     }
 }
