@@ -4,3 +4,9 @@ F:\DOT-NET\EISAI_BLL\obj\Debug\EISAI_BLL.csprojAssemblyReference.cache
 F:\DOT-NET\EISAI_BLL\obj\Debug\EISAI_BLL.csproj.CoreCompileInputs.cache
 F:\DOT-NET\EISAI_BLL\obj\Debug\EISAI_BLL.dll
 F:\DOT-NET\EISAI_BLL\obj\Debug\EISAI_BLL.pdb
+F:\bhargav\EISAI-ANGULAR\EISAI-SERVER\EISAI_BLL\bin\Debug\EISAI_BLL.dll
+F:\bhargav\EISAI-ANGULAR\EISAI-SERVER\EISAI_BLL\bin\Debug\EISAI_BLL.pdb
+F:\bhargav\EISAI-ANGULAR\EISAI-SERVER\EISAI_BLL\obj\Debug\EISAI_BLL.csprojResolveAssemblyReference.cache
+F:\bhargav\EISAI-ANGULAR\EISAI-SERVER\EISAI_BLL\obj\Debug\EISAI_BLL.csproj.CoreCompileInputs.cache
+F:\bhargav\EISAI-ANGULAR\EISAI-SERVER\EISAI_BLL\obj\Debug\EISAI_BLL.dll
+F:\bhargav\EISAI-ANGULAR\EISAI-SERVER\EISAI_BLL\obj\Debug\EISAI_BLL.pdb

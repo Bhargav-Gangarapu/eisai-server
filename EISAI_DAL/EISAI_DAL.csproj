@@ -62,8 +62,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Interface\IDepartment.cs" />
+    <Compile Include="Interface\IRole.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\DepartmentRepo.cs" />
+    <Compile Include="Repository\RoleRepo.cs" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
